@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/fgacenga/2016-09-26-usq"
-workshop_site   : "http://fgacenga.github.io/2016-07-26-usq"
+workshop_repo   : "https://github.com/fgacenga/2017-09-25"
+workshop_site   : "http://fgacenga.github.io/2017-09-25"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
